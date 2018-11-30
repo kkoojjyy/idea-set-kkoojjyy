@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="DevEco" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+  </component>
+</application>
